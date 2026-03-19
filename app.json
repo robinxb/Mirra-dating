@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "datingmirra",
-    "slug": "datingmirra",
+    "name": "Mirra",
+    "slug": "mira-dating",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "31e7d849-fbf3-48de-a98b-44e7af245198"
+      }
+    },
+    "owner": "robinxb"
   }
 }
